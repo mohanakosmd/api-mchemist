@@ -1,2 +1,2 @@
 # api-mchemist
-api mchecmist frontapi
+api mchecmist frontapis
